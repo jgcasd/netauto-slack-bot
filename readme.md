@@ -8,8 +8,8 @@ serverless network focused chatops style Slack bot for managing your network.
 # Build Status
 
 # Screenshots
-![Slash Command](https://github.com/jgcasd/netauto-slack-bot-temp/blob/main/docs/slash-command.png)
-![Command Result](https://github.com/jgcasd/netauto-slack-bot-temp/blob/main/docs/slash-command-result.png)
+![Slash Command](https://github.com/jgcasd/netauto-slack-bot/blob/main/docs/slash-command.png)
+![Command Result](https://github.com/jgcasd/netauto-slack-bot/blob/main/docs/slash-command-result.png)
 
 # Code Style
 * Code formatter: black
