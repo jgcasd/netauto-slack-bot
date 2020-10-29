@@ -1,0 +1,5 @@
+Resources:
+  SlackBotSQS:
+    Type: "AWS::SQS::Queue"
+    Properties:
+      QueueName: "SlackBotSQS"
